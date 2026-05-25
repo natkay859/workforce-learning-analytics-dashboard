@@ -106,6 +106,6 @@ Learner identities anonymised throughout the project.
 
 ---
 
-## Portfolio Note
+This project was created as a professional learning analytics and business intelligence portfolio case study inspired by real operational challenges encountered within international online learning environments.
 
-This project was created as a professional learning analytics and business intelligence portfolio case study demonstrating dashboard development, operational reporting, and data storytelling capabilities within corporate learning environments.
+All organisational details, learner data, company names, and datasets used within this project have been anonymised, modified, or modelled for portfolio demonstration purposes.
