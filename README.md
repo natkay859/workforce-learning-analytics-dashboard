@@ -6,6 +6,10 @@ Interactive business intelligence dashboard analysing learner engagement, traini
 
 Built to provide learning and development stakeholders with a centralised view of programme performance, learner retention, departmental engagement, and workforce language training ROI.
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard.png)
+
 ---
 
 ## Business Problem
@@ -60,15 +64,19 @@ The dashboard combines learner assessment data, LMS activity records, and progra
 ## Key Insights
 
 ### Week 5 was the highest-risk dropout point
+
 Analysis identified a significant concentration of learner withdrawals between weeks 4–6, suggesting a critical intervention window for learner retention strategies.
 
 ### Starting proficiency varied substantially across markets
+
 Regional analysis showed major differences in learner entry-level proficiency, highlighting the need for market-specific cohort design and differentiated learning pathways.
 
 ### Department engagement patterns varied
+
 R&D and Engineering learners demonstrated stronger progression outcomes than some larger operational departments, suggesting closer alignment between language learning and business function improved engagement.
 
 ### Course allocation required optimisation
+
 Analysis suggested some learners were placed into courses above their current proficiency level, potentially contributing to dropout patterns and lower completion rates.
 
 ---
@@ -86,24 +94,11 @@ Analysis suggested some learners were placed into courses above their current pr
 
 ---
 
-## Dashboard Screenshots
-
-(Add screenshots here)
-
----
-
-## Dashboard Walkthrough
-
-(Add your screen recording video here)
-
----
-
 ## Methodology
 
 Data compiled from LMS activity records, learner assessment scores, and programme administration data across five quarterly cohorts between Q1 2024 and Q1 2025.
 
 Learner identities anonymised throughout the project.
-
 ---
 
 This project was created as a professional learning analytics and business intelligence portfolio case study inspired by real operational challenges encountered within international online learning environments.
