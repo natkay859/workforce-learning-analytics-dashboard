@@ -40,7 +40,7 @@ The dashboard combines learner assessment data, LMS activity records, and progra
 
 ## Tools Used
 
-- Tableau
+- Power BI
 - Excel
 - CEFR Framework
 - Learning Analytics
